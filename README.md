@@ -46,7 +46,7 @@ This project provides a simple way to deploy a Windows 10 VM using Docker and KV
          VERSION: "10"
          USERNAME: "MASTER"
          PASSWORD: "admin@123"
-         RAM_SIZE: "4G"
+         RAM_SIZE: "8G"
          CPU_CORES: "4"
          DISK_SIZE: "400G"
          DISK2_SIZE: "100G"
